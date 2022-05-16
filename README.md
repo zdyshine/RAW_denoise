@@ -11,7 +11,7 @@ step3:
 |—dataset    
 	|—ground_truth    
 	        |—*.dng    
-    
+		
 	|—noisy    
 	        |—*.dng    
     
