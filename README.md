@@ -1,6 +1,6 @@
 # RAW_denoise
 
-## 2022中兴捧月图像去噪方案    
+## 2022中兴捧月图像第五名去噪方案    
 ### 思路    
 ### 参数分析    
 为更好地完场图像去噪任务，根据Paper with code上的性能列表，对近两年的Image Denoising on SIDD(Smartphone Image Denoising Dataset)相关工作进行研究与分析。         
