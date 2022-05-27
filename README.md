@@ -20,7 +20,7 @@ crop之后:
 |—crop    
 	|—ground_truth_crop    
 		|—0    
-		        |—*.dng    
+		        |—*.dng
 		|—1    
 		|—...    
 		|—97    
