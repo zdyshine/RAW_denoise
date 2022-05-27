@@ -1,6 +1,9 @@
 # RAW_denoise
 
-#### 2022中兴捧月图像去噪方案    
+## 2022中兴捧月图像去噪方案    
+### 思路    
+为更好地完场图像去噪任务，根据Paper with code上的性能列表（图2.1），我对近两年的Image Denoising on SIDD(Smartphone Image Denoising Dataset)相关工作进行研究与分析。     
+参数与性能统计分析：![image](https://github.com/FishInWater-1999/GithubUseTest/blob/master/bac_3.jpg)
 step1:    
 执行extract_subimages.py进行数据切块，加速训练。    
 step2:    
