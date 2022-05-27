@@ -11,9 +11,11 @@ step3:
 文件夹:    
 |—dataset    
 >|—ground_truth    
->>|—...dng
+>>|—...dng   
+    
 >|—noisy       
-        |—...dng     
+>>|—...dng     
+    
     
 crop之后:    
 |—crop    
