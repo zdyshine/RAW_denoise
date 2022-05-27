@@ -10,7 +10,7 @@ step3:
 注意，下载的训练数据解压后，需要把ground truth文件夹改为ground_truth    
 文件夹:    
 |—dataset    
-    |—ground_truth    
+                |—ground_truth    
         |—...dng    
     |—noisy       
         |—...dng     
