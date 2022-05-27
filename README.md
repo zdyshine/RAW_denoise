@@ -12,7 +12,7 @@ step3:
 |—dataset    
 >|—ground_truth    
 >>|—...dng    
->|—noisy       
+|—noisy       
 >>|—...dng     
     
 crop之后:    
@@ -20,7 +20,7 @@ crop之后:
 >|—ground_truth_crop    
 >>|—0    
 >>>|—...dng    
->>|—1    
+|—1    
 >>|—...    
 >>|—97    
 >|—noisy_crop    
