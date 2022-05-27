@@ -13,8 +13,8 @@ step3:
 	|—ground_truth    
 	        |—*.dng    
 		
-	|—noisy       
-|—*.dng     
+        |—noisy       
+                |—*.dng     
     
 crop之后:    
 |—crop    
